@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moodifier</string>
+    <string name="moodifier">Moodifier</string>
+    <string name="change_api">Change API</string>
+    <string name="try_again">Get Mood</string>
+    <string name="enter_api_url">Enter API URL</string>
+</resources>
